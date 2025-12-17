@@ -1,5 +1,0 @@
-com/healthcare/covido/CovidoApplication.class
-com/healthcare/covido/repositories/ContactUsRepository.class
-com/healthcare/covido/entities/ContactUs.class
-com/healthcare/covido/form/ContactUsForm.class
-com/healthcare/covido/controller/ContactUsController.class
